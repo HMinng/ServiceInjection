@@ -1,0 +1,21 @@
+{
+    "name : "ServiceInjection",
+    
+    "authors" : [
+		{
+            "name": "heming",
+            "email": "jackhm18@gmail.com"
+        }
+    ],
+    
+    "require": {
+
+    },
+    
+    "autoload": {
+        "classmap" : [
+            "src/"
+        ]
+    }
+
+}
