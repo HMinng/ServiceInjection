@@ -1,10 +1,10 @@
 {
-    "name : "ServiceInjection",
+    "name": "ServiceInjection",
     
-    "authors" : [
-		{
+    "authors": [
+        {
             "name": "heming",
-            "email": "jackhm18@gmail.com"
+            "email": "heming@byecity.com"
         }
     ],
     
@@ -16,5 +16,4 @@
         "classmap" : [
         ]
     }
-
 }
